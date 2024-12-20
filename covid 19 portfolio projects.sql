@@ -8,6 +8,10 @@ SELECT *
 FROM  dbo.covidDeaths
 where continent is not null
 order by 3,4
+      
+Select *
+FROM PortfolioProject.dbo.CovidVaccinations
+Order By 3,4
 
 
 ---selecting the data that we are going to be using
