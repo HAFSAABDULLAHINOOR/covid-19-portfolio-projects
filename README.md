@@ -31,7 +31,14 @@ The next queries we are looking at the death percentage based on;
   5. 
 **THE QUERIES ARE AS FOLLOWS:**
 
-link - C:\Users\HP\OneDrive\Documentos\SQL Server Management Studio\covid 19 portfolio projects.sql
+link - https://github.com/HAFSAABDULLAHINOOR/covid-19-portfolio-projects/blob/main/covid%2019%20portfolio%20projects.sql
+
+
+**TABLEU VISUALIZATION**
+Link - https://public.tableau.com/app/profile/hafsa.noor/viz/CovidDashboardTutorial_17333018983070/Dashboard1
+
+
+
 
 
 
