@@ -1,7 +1,17 @@
-THIS IS A GUIDED PROJECT BY ALEX THE ANALYST 
+COVID-PORTFOLIO-PROJECT
 
-In this project i used excel to analyse the data and mssql server to write my codes
-I combined 2 dataset covid_deaths and covid_vaccination in excel and used the combined dataset covid_deaths to write my codes in mssql
+This project  dataset is used to analyse the  global data about covid_19 patients.
+This project uses two dataset CovidDeaths.xlsx and CovidVaccinations.xlsx which have been cleaned in excel and loaded to mssql for data exploration.
+The files used include;
+
+CovidDeaths.xlsx- the dataset contains information on Covid-19 deaths worldwide
+
+CovidVaccinations.xlsx - the dataset contains information on Covid-19 vaccinations worldwide
+
+Data Exploration.sql - the SQL code used to explore the data in the database
+
+Query For Tableau Visualization.sql - the SQL code used to visualize the dataset after exploration.
+
 skills used include;
 JOINS, AGGREGATE FUNCTIONS, CTE'S, WINDOWS FUNCTIONS, TEMP TABLES, CONVERTING DATATYPES, CREATING VIEWS
 
